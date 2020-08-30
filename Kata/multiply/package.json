@@ -1,0 +1,12 @@
+{
+  "name": "Multiply",
+  "version": "1.0.0",
+  "description": "",
+  "main": "multiply.js",
+  "scripts": {
+    "start": "node multiply.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
