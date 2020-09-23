@@ -10,6 +10,6 @@ Each kata is crafted for and by the community. The author (or Sensei) who create
 
 ## Stats (23.9.2020)
 
-Rank:6 kyu
-Honor:148
-Total Completed Kata:32
+Rank:6 kyu  
+Honor:148  
+Total Completed Kata:32  
